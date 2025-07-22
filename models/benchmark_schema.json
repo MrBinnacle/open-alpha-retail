@@ -1,0 +1,16 @@
+{
+  "model_name": "baseline_model",
+  "version": "1.0",
+  "author": "MrBinnacle",
+  "description": "Simple linear regression using stETH supply to predict ETH price",
+  "metrics": {
+    "sharpe_ratio": null,
+    "max_drawdown_pct": null,
+    "rmse": null,
+    "mae": null,
+    "accuracy": null
+  },
+  "last_trained": "TBD",
+  "dataset": "ETH + stETH daily snapshot",
+  "notes": "Replace nulls with evaluation results after training."
+}
